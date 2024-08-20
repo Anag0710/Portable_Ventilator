@@ -34,7 +34,7 @@ Uses a DHT11 sensor to read environmental temperature and humidity.
 Data is displayed on an OLED screen for easy monitoring.
 
 🖥️ Applications
-The Portable Ventilator and Health Monitoring System addresses several critical needs:
-Emergency Medical Situations: Provides a quick and reliable ventilator system that can be used in ambulances, field hospitals, or homes during medical emergencies.
-Real-Time Health Monitoring: Continuously monitors vital health metrics, enabling early detection of potential issues and ensuring the patient’s safety.
-Portable and Affordable: The system is designed to be easily transportable and cost-effective, making it accessible to a broader population.
+1. The Portable Ventilator and Health Monitoring System addresses several critical needs:
+2. Emergency Medical Situations: Provides a quick and reliable ventilator system that can be used in ambulances, field hospitals, or homes during medical emergencies.
+3. Real-Time Health Monitoring: Continuously monitors vital health metrics, enabling early detection of potential issues and ensuring the patient’s safety.
+4. Portable and Affordable: The system is designed to be easily transportable and cost-effective, making it accessible to a broader population.
