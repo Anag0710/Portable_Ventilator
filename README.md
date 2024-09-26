@@ -1,3 +1,5 @@
+## This project is awarded as the best project of the year by Poornima Group of Colleges
+
 # Portable Ventilator and Health Monitoring System
 
 This repository contains the source code for the **Portable Ventilator and Health Monitoring System**. This project is designed to create an affordable and accessible ventilator system with integrated health monitoring features. It aims to provide a cost-effective solution for emergency ventilation and real-time monitoring of vital health parameters such as heart rate, SpO2 levels, temperature, and humidity.
