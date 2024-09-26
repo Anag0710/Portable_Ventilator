@@ -1,4 +1,4 @@
-## This project is awarded as the best project of the year by Poornima Group of Colleges
+## This project is awarded as the best project of the year by Poornima Group of Colleges at Kalanidhi Award Ceremony 🏆 and also has been proposed to be presented at Udhbav showcasing the best projects of the College 🤖
 
 # Portable Ventilator and Health Monitoring System
 
